@@ -1,0 +1,39 @@
+{
+    "item":[
+        {
+            "item_skucode":"165647C401",
+            "item_name":"[深蓝色]",
+            "item_url":"https://m.converse.com.cn/chuck70/165647C401/item.htm",
+            "item_size_list":[35,35.5,36,36.5,37,37.5,38,38.5,39,39.5,40,40.5,41,41.5,42,42.5]
+        },
+        {
+            "item_skucode":"165648C455",
+            "item_name":"[淡蓝色]",
+            "item_url":"https://m.converse.com.cn/chuck70/165648C455/item.htm",
+            "item_size_list":[35,35.5,36,36.5,37,37.5,38,38.5,39,39.5,40,40.5,41,41.5,42,42.5]
+        },
+        {
+            "item_skucode":"166558C001",
+            "item_name":"[黑色拼接]",
+            "item_url":"https://m.converse.com.cn/chuck70/166558C001/item.htm",
+            "item_size_list":[35,35.5,36,36.5,37,37.5,38,38.5,39,39.5,40,40.5,41,41.5,42,42.5,43,43.5,44,44.5,45]
+            
+        },
+        {
+            "item_skucode":"166559C102",
+            "item_name":"[黄色拼接]",
+            "item_url":"https://m.converse.com.cn/chuck70/166559C102/item.htm",
+            "item_size_list":[35,35.5,36,36.5,37,37.5,38,38.5,39,39.5,40,40.5,41,41.5,42,42.5,43,43.5,44,44.5,45]
+            
+        },
+        {
+            "item_skucode":"665349C001",
+            "item_name":"[小恐龙]",
+            "item_url":"https://m.converse.com.cn/all_star/665349C001/item.htm",
+            "item_size_list":[35,35.5,36,36.5,37,37.5,38,38.5,39,39.5,40,40.5,41,41.5,42,42.5,43,43.5,44,44.5,45]
+            
+        }
+        
+    ]
+}
+
